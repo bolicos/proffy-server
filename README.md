@@ -4,9 +4,9 @@
 ### Clone o projeto:
 Aqui temos 2 comandos 1 para quem usa chave SSh e outro para quem nao utiliza, entao use o protocolo HTTP
 ```sh
-git clone git@github.com:analuciabolico/proffy-server.git
+git clone git@github.com:bolicos/proffy-server.git
                         or
-git clone https://github.com/analuciabolico/proffy-server.git
+git clone https://github.com/bolicos/proffy-server.git
 ```
 
 ### Entrar na pasta do projeto:
